@@ -1,0 +1,17 @@
+---
+title: "Volunteered"
+author: "TBD"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+# Barnacles
+
+This is our first field survey. We're honoured, I think, to have this chance without an older hand here to instruct. Trusted, how easily we've wielded the mesh in training exercises, how easy it felt to diagnose the patterns and textures, in a quiet room. I try to recall that sense of focused calm. Just as it felt in training. A flake falls with a soft hiss and is dissolved into the sludge at our feet. There's a smell that's hard to connect with memories. 
+
+Xzrybt stoops, about to press a section of the fine mesh against the base of the extrusion. Removes a glove and hesitantly runs the pads of a finger against the surface. "Almost furred", Xzrybt ponders. "Feel this bit here, Zkrfyt, you'd expect it to be brittle, but", pressing more definitely, "it doesn't come away". We don't recognise it. I let out a murmur of indulgence and impatience; the mesh can recognise it for us. We can learn on the job, we must show we're trusted, not hang about wasting words speculating on the nature of the job. The mesh is fine enough not to snag on the inexplicable surface. It pulses briefly with a bluish-pink as it hardens from more of a gel into more of a wire, as we take a reading.
+
+
